@@ -39,3 +39,5 @@ def quick_sort(array, start, end):
 lista = [19,2,31,45,30,11,121,27]
 quick_sort(lista, 0, len(lista) - 1)
 print(lista)
+
+#take from https://stackabuse.com/quicksort-in-python/
